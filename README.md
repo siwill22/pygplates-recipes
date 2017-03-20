@@ -11,7 +11,7 @@ https://github.com/GPlates/pygplates-tutorials
 Mike Tetley's pygplates tools:  
 https://github.com/headmetal/PaleoGeoPy
 
-Notebooks for the pygplates course:
+Notebooks for the pygplates course:  
 https://github.com/siwill22/pygplates-course
 
 And the pygplates documentation:  
