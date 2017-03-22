@@ -64,3 +64,9 @@ topology/tmp.prj
 topology/tmp.shp
 
 topology/tmp.shx
+
+file-format-manipulation/tmp.gpml
+
+file-format-manipulation/tmp.gpmlz
+
+file-format-manipulation/.ipynb_checkpoints/retrieve-GPML-from-github-checkpoint.ipynb
