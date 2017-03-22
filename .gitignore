@@ -50,3 +50,17 @@ visualisation/tmp.shx
 topology/.ipynb_checkpoints/topology-length-errors-checkpoint.ipynb
 
 file-format-manipulation/.ipynb_checkpoints/gpml-to-pandas-dataframe-checkpoint.ipynb
+
+*.png
+
+topology/.ipynb_checkpoints/Hotspot-Tracking-Movie-Maker-checkpoint.ipynb
+
+topology/.ipynb_checkpoints/track-point-through-topologies-checkpoint.ipynb
+
+topology/tmp.dbf
+
+topology/tmp.prj
+
+topology/tmp.shp
+
+topology/tmp.shx
