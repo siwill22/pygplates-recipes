@@ -70,3 +70,17 @@ file-format-manipulation/tmp.gpml
 file-format-manipulation/tmp.gpmlz
 
 file-format-manipulation/.ipynb_checkpoints/retrieve-GPML-from-github-checkpoint.ipynb
+
+data-manipulation/tmp.gpml
+
+data-manipulation/tmp.gpmlz
+
+data-manipulation/.ipynb_checkpoints/Create-GPML-Point-Distributions-on-Sphere-checkpoint.ipynb
+
+data-manipulation/.ipynb_checkpoints/gpml-to-pandas-dataframe-checkpoint.ipynb
+
+data-manipulation/.ipynb_checkpoints/retrieve-GPML-from-github-checkpoint.ipynb
+
+data-manipulation/healpix_mesh_feature.gpmlz
+
+data-manipulation/pseudo_random_points_feature.gpmlz
