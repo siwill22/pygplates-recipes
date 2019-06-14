@@ -98,3 +98,5 @@ visualisation/.ipynb_checkpoints/reconstruction-trees-checkpoint.ipynb
 velocity/.ipynb_checkpoints/spreading-along-ridges-checkpoint.ipynb
 
 topology/subduction_initiation.gif
+visualisation/resolve_topologies.pyc
+.DS_Store
